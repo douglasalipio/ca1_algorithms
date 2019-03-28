@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.27)  28 MAR 2019 11:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.27)  28 MAR 2019 16:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -10,8 +10,8 @@ Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 Document Class: diazessay 2019/01/13 Diaz Essay class v1.0
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -182,7 +182,7 @@ s
 \f@nch@O@olf=\skip52
 \f@nch@O@orf=\skip53
 ))
-No file main.aux.
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -198,7 +198,7 @@ LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 36.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/t1ppl.fd
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -285,12 +285,12 @@ e
 * \topmargin=-43.81721pt
 * \headheight=21.33955pt
 * \headsep=21.33955pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=42.67912pt
-* \marginparwidth=59.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -314,68 +314,54 @@ Package microtype Info: No adjustment of character kerning.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 38.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 38.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 58.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 60.
-
-
-LaTeX Warning: Citation `Smith:2012qr' on page 1 undefined on input line 60.
-
-
-LaTeX Warning: Citation `Smith:2013jd' on page 1 undefined on input line 60.
-
-[1
-
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<Figures/fish.png, id=9, 211.79124pt x 158.5925pt>
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 58.
+<Figures/fish.png, id=1, 211.79124pt x 158.5925pt>
 File: Figures/fish.png Graphic file (type png)
 <use Figures/fish.png>
-Package pdftex.def Info: Figures/fish.png  used on input line 72.
+Package pdftex.def Info: Figures/fish.png  used on input line 69.
 (pdftex.def)             Requested size: 155.35136pt x 116.33296pt.
+ [1
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--74
-\T1/ppl/m/n/10.95 (+20) risus eu nunc ac-cum-san condi-men-tum at sed ip-sum.
- []
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 75.
 
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 78.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
-LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
  [2 <./Figures/fish.png>]
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 101.
-
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 98.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 101
-.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 98.
+
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 101
-.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 98.
+
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 101
-.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 98.
+
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 101
-.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 98.
+
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -384,30 +370,43 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 118.
 
-No file main.bbl.
-[3] (./main.aux)
+Underfull \hbox (badness 1389) in paragraph at lines 125--129
+[]\T1/ppl/m/n/12 (+20) Albert Ein-stein. \T1/ppl/m/it/12 (+20) Zur Elek-tro-dy-
+namik be-wegter Kör-per\T1/ppl/m/n/12 (+20) . (Ger-man)
+ []
 
-LaTeX Warning: There were undefined references.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 132.
 
- ) 
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [3] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4971 strings out of 492649
- 76323 string characters out of 6129622
- 184643 words of memory out of 5000000
- 8656 multiletter control sequences out of 15000+600000
- 33597 words of font info for 119 fonts, out of 8000000 for 9000
+ 4998 strings out of 492649
+ 77033 string characters out of 6129622
+ 184648 words of memory out of 5000000
+ 8678 multiletter control sequences out of 15000+600000
+ 34717 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,45p,716b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2
-018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2018/tex
-mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (3 pages, 75013 bytes).
+ 41i,10n,45p,760b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super
+/cm-super-t1.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.en
+c}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (3 pages, 105608 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 27142 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 28166 words of extra memory for PDF output out of 29859 (max. 10000000)
 
